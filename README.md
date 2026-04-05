@@ -28,7 +28,7 @@ This project demonstrates basic Python programming, data analysis, visualization
 - Pandas
 - Matplotlib
 - Scikit-learn
-- CSV Data Storage
+- OS
 
 ---
  How the System Works
